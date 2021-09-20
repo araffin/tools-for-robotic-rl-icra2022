@@ -2,7 +2,7 @@
 ## Hands-on RL for Robotics with EAGER and Stable-Baselines3
 
 
-Website:
+Website: https://araffin.github.io/tools-for-robotic-rl-icra2022/
 
 Tools:
 - https://github.com/eager-dev/eager
