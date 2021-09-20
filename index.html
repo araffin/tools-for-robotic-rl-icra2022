@@ -1,0 +1,346 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Tutorial: Tools for Robotic Reinforcement Learning | ICRA 2022</title>
+    <link rel="stylesheet" href="https://bulma.io/vendor/fontawesome-free-5.15.2-web/css/all.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css">
+  </head>
+  <body>
+
+    <section class="hero is-light is-medium">
+      <!-- Hero head: will stick at the top -->
+      <div class="hero-head">
+        <nav class="navbar">
+          <div class="container">
+            <div class="navbar-brand">
+              <a class="navbar-item" href="https://www.icra2022.org/">
+                <img src="https://www.icra2022.org/sites/default/themes/icra2022/resources/img/logos/title-conf.svg"
+                     alt="Logo"
+                     width="300px" style="max-height:400px">
+              </a>
+              <!-- <span class="navbar-burger" data-target="navbarMenuHeroA">
+                <span></span>
+                <span></span>
+                <span></span>
+              </span> -->
+            </div>
+            <div id="navbarMenuHeroA" class="navbar-menu">
+              <div class="navbar-end">
+                <a class="navbar-item" href="#goals">
+                  Goals
+                </a>
+                <a class="navbar-item" href="#schedule">
+                  Schedule
+                </a>
+                <a class="navbar-item" href="#speakers">
+                  Speakers
+                </a>
+                <a class="navbar-item" href="#organizers">
+                  Organizers
+                </a>
+                <span class="navbar-item">
+                  <a class="button is-light is-inverted">
+                    <span class="icon">
+                      <i class="fab fa-github"></i>
+                    </span>
+                    <span>Github Repo</span>
+                  </a>
+                </span>
+              </div>
+            </div>
+          </div>
+        </nav>
+      </div>
+
+      <!-- Hero content: will be in the middle -->
+      <div class="hero-body">
+        <div class="container has-text-centered">
+          <h1 class="title">
+            Tutorial: Tools for Robotic Reinforcement Learning
+          </h1>
+          <p class="subtitle">
+            Hands-on RL for Robotics with
+            <a href="https://github.com/eager-dev/eager" target="_blank">EAGER</a>
+            and
+            <a href="https://github.com/DLR-RM/stable-baselines3" target="_blank">Stable-Baselines3</a>
+          </p>
+        </div>
+        <div class="container has-text-centered">
+          <h3>ICRA 2022, May 23-27, 2022 Philadelphia (PA), USA</h3>
+        </div>
+      </div>
+
+      <!-- Hero footer: will stick at the bottom -->
+      <!-- <div class="hero-foot">
+        <nav class="tabs">
+          <div class="container">
+            <ul>
+              <li class="is-active"><a>Overview</a></li>
+              <li><a>Modifiers</a></li>
+              <li><a>Grid</a></li>
+              <li><a>Elements</a></li>
+              <li><a>Components</a></li>
+              <li><a>Layout</a></li>
+            </ul>
+          </div>
+        </nav>
+      </div> -->
+    </section>
+
+    <div class="container is-max-desktop">
+
+      <section class="section has-text-centered">
+        <h2 class="title" id="goals">Goals</h2>
+        <h3 class="subtitle">
+          The goals of the tutorial
+        </h3>
+      </section>
+
+      <section class="section has-text-centered">
+        <h2 class="title">Requirements</h2>
+        <h3 class="subtitle">
+          Basic knowledge of reinforcement learning and python programming is required.
+        </h3>
+      </section>
+
+      <section class="section">
+        <h2 class="title has-text-centered" id="schedule">Schedule</h2>
+
+        <table class="table is-striped is-fullwidth is-hoverable is-bordered">
+           <thead>
+              <tr class="header">
+                 <th>Time</th>
+                 <th>Talk</th>
+                 <th>Comments</th>
+              </tr>
+           </thead>
+           <tbody>
+              <tr class="odd">
+                 <td>9:00-9:15</td>
+                 <td>Introduction</td>
+                 <td></td>
+              </tr>
+              <tr class="even">
+                 <td>9:15-10:00</td>
+                 <td>Accelerating physics simulators for RL on CPU, GPU and TPU</td>
+                 <td>Invited Speaker: Erwin Coumans</td>
+              </tr>
+              <tr class="odd">
+                 <td>10:00-10:30</td>
+                 <td>Getting Started with Gym and Stable-Baselines3</td>
+                 <td>Presenter: Antonin Raffin</td>
+              </tr>
+              <tr class="even">
+                 <td>10:30-11:00</td>
+                 <td>Hands-on Session with SB3</td>
+                 <td>with colab notebooks</td>
+              </tr>
+              <tr class="odd">
+                 <td>11:00-11:10</td>
+                 <td>Break</td>
+                 <td></td>
+              </tr>
+              <tr class="even">
+                 <td>11:10-11:40</td>
+                 <td>Getting Started with EAGER</td>
+                 <td>Presenter: Bas</td>
+              </tr>
+              <tr class="odd">
+                 <td>11:40-12:15</td>
+                 <td>Hands-on Session with EAGER</td>
+                 <td>with colab notebooks</td>
+              </tr>
+              <tr class="even">
+                 <td>12:15-13:30</td>
+                 <td>Lunch Break</td>
+                 <td></td>
+              </tr>
+              <tr class="odd">
+                 <td>13:30-14:00</td>
+                 <td>Automatic Hyperparameter Optimization</td>
+                 <td>Presenter: Antonin Raffin</td>
+              </tr>
+              <tr class="even">
+                 <td>14:00-14:45</td>
+                 <td>Hyperparameter Tuning with Optuna</td>
+                 <td>with colab notebooks</td>
+              </tr>
+              <tr class="odd">
+                 <td>14:45-15:00</td>
+                 <td>Break</td>
+                 <td></td>
+              </tr>
+              <tr class="even">
+                 <td>15:00-15:30</td>
+                 <td>EAGER: Adding new robots/custom processing</td>
+                 <td>Presenter: Bas</td>
+              </tr>
+              <tr class="odd">
+                 <td>15:30-16:00</td>
+                 <td>RL Baselines Zoo</td>
+                 <td>Presenter: Antonin Raffin</td>
+              </tr>
+              <tr class="even">
+                 <td>16:00-17:00</td>
+                 <td>EAGER Advanced usage</td>
+                 <td>with colab notebooks</td>
+              </tr>
+              <tr class="odd">
+                 <td>17:00-18:00</td>
+                 <td>safe-control-gym: a Unified Benchmark Suite for Safe Learning-based Control and Reinforcement Learning</td>
+                 <td>Invited Speaker: Angela Schoellig</td>
+              </tr>
+           </tbody>
+        </table>
+
+      </section>
+
+      <section class="section">
+        <h2 class="title has-text-centered" id="speakers">Speakers</h2>
+
+        <article class="media">
+          <figure class="media-left">
+            <p class="image is-128x128">
+              <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=-aapzdEAAAAJ&citpid=1">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Erwin Coumans</strong>
+                <small>
+                  <a href="https://twitter.com/erwincoumans">
+                    @erwincoumans
+                  </a>
+                </small>
+
+                <br>
+                Erwin Coumans is creator of the Bullet physics engine and member of the Google Brain team, where he is responsible for real-time physics simulation research and development, with a focus on robotics and machine learning.
+              </p>
+            </div>
+          </div>
+        </article>
+        <article class="media">
+          <figure class="media-left">
+            <p class="image is-128x128">
+              <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=QMfeRz0AAAAJ&citpid=4">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Angela Schoellig</strong>
+                <small>
+                  <a href="https://twitter.com/angelaschoellig">
+                    @angelaschoellig
+                  </a>
+                </small>
+
+                <br>
+                 Angela Schoellig is an Associate Professor at the University of Toronto Institute for Aerospace Studies and a Faculty Member of the Vector Institute for Artificial Intelligence.
+                 She conducts research at the intersection of robotics, controls, and machine learning. Her goal is to enhance the performance, safety, and autonomy of robots by enabling them to learn from past experiments and from each other.
+              </p>
+            </div>
+          </div>
+        </article>
+      </section>
+
+      <section class="section">
+        <h2 class="title has-text-centered" id="organizers">Organizers</h2>
+        <article class="media">
+          <figure class="media-left">
+            <p class="image is-128x128">
+              <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=rLHzGRMAAAAJ&citpid=1">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Bas Van der Heijden</strong>
+
+                <small>
+                  <a href="https://github.com/bheijden">
+                    @bheijden
+                  </a>
+                </small>
+
+                <br>
+                Bas is a PhD candiate at TU Delft working on robotics and reinforcement learning.
+                He is co-creator of the Engine Agnostic Gym Environment for Robotics (EAGER) toolkit.
+              </p>
+            </div>
+          </div>
+        </article>
+        <article class="media">
+          <figure class="media-left">
+            <p class="image is-128x128">
+              <img src="https://araffin.github.io/authors/admin/avatar_hu33d8f2710ea4928d295bd08cdc05f6eb_60040_270x270_fill_q90_lanczos_center.jpg">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Antonin Raffin</strong>
+                <small>
+                  <a href="https://twitter.com/araffin2">
+                    @araffin2
+                  </a>
+                </small>
+                <br>
+                Antonin Raffin is a Research Engineer in Robotics and Machine Learning at the German Aerospace Center (DLR).
+
+                He was previously working on state representation learning in the ENSTA robotics lab (U2IS) where he co-created the Stable-Baselines library with Ashley Hill. His research focus is now on applying reinforcement learning directly on real robots, for which is continue to maintain the Stable-Baselines3 library.
+
+              </p>
+            </div>
+          </div>
+        </article>
+
+        <article class="media">
+          <figure class="media-left">
+            <p class="image is-128x128">
+              <img src="https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=XOWZzUcAAAAJ&citpid=8">
+            </p>
+          </figure>
+          <div class="media-content">
+            <div class="content">
+              <p>
+                <strong>Jens Kober </strong>
+
+                <br>
+                Jens Kober is an associate professor at the Cognitive
+                Robotics department, 3mE, TU Delft, Netherlands. He worked as a
+                postdoctoral scholar jointly at the CoR-Lab, Bielefeld University,
+                Germany and at the Honda Research Institute Europe, Germany. He
+                graduated in 2012 with a PhD Degree in Engineering from TU Darmstadt and
+                the MPI for Intelligent Systems. For his research he received the
+                annually awarded Georges Giralt PhD Award for the best PhD thesis in
+                robotics in Europe, the 2018 IEEE RAS Early Academic Career Award, and
+                has received an ERC Starting grant. His research interests include motor
+                skill learning, (deep) reinforcement learning, imitation learning,
+                interactive learning, and machine learning for control.
+
+              </p>
+            </div>
+          </div>
+        </article>
+
+      </section>
+
+    </div>
+
+    <footer class="footer">
+    <div class="content has-text-centered">
+      <p>
+        Template made by <a href="https://araffin.github.io/">Antonin Raffin</a>
+        based on <i>Bulma</i>. The source code is licensed
+        <a href="http://opensource.org/licenses/mit-license.php">MIT</a>. The website content
+        is licensed <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY NC SA 4.0</a>.
+      </p>
+    </div>
+  </footer>
+
+  </body>
+</html>
