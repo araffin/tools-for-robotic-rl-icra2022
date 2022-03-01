@@ -5,5 +5,5 @@
 Website: https://araffin.github.io/tools-for-robotic-rl-icra2022/
 
 Tools:
-- https://github.com/eager-dev/eager
+- https://github.com/eager-dev/eagerx
 - https://github.com/DLR-RM/stable-baselines3
