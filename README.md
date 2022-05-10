@@ -27,6 +27,8 @@ Stable-Baselines3 notebooks can be found in the `notebooks/` folder.
 
 EAGERX notebooks can be found in the [eagerx tutorials](https://github.com/eager-dev/eagerx_tutorials) repository.
 
+Exercise instructions can be found here: https://araffin.github.io/tools-for-robotic-rl-icra2022/notebooks/eagerx_exercises.html
+
 -   [Tutorial 1: Environment Creation and Training with EAGERx](https://colab.research.google.com/github/eager-dev/eagerx_tutorials/blob/master/tutorials/pendulum/1_environment_creation.ipynb)
 -   [Tutorial 2: Reset and Step Function](https://colab.research.google.com/github/eager-dev/eagerx_tutorials/blob/master/tutorials/pendulum/2_reset_and_step.ipynb)
 -   [Tutorial 3: Converters](https://colab.research.google.com/github/eager-dev/eagerx_tutorials/blob/master/tutorials/pendulum/3_converters.ipynb)
@@ -38,4 +40,5 @@ EAGERX notebooks can be found in the [eagerx tutorials](https://github.com/eager
 
 ## Slides
 
-TBA
+- [Gym / SB3 Quickstart](https://araffin.github.io/slides/icra22-gym-sb3-quickstart/)
+- [Automatic Hyperparameter Tuning](https://araffin.github.io/slides/icra22-hyperparam-opt/)
