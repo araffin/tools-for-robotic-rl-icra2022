@@ -1,0 +1,647 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny" viewBox ="0 0 1000.000000 664.000000">
+<title>pyqtgraph SVG export</title>
+<desc>Generated with Qt and pyqtgraph</desc>
+<style>
+    image {
+        image-rendering: crisp-edges;
+        image-rendering: -moz-crisp-edges;
+        image-rendering: pixelated;
+    }
+</style>
+<rect width="100%" height="100%" style="fill:rgba(255, 255, 255, 1.000000)" />
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="RxViewBox_1">
+    <g fill="none" stroke="none" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+        <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M0.0,0.0 L1000.0,0.0 L1000.0,664.0 L0.0,664.0 L0.0,0.0 "/>
+    </g>
+    <clipPath id="RxViewBox_1_clip">
+        <path vector-effect="none" fill-rule="evenodd" d="M0.0,0.0 L1000.0,0.0 L1000.0,664.0 L0.0,664.0 L0.0,0.0 " stroke-width="1.0"/>
+    </clipPath>
+    <g clip-path="url(#RxViewBox_1_clip)">
+        <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ChildGroup_1">
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_1">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M417.60306405,90.62001098999997 C516.45956747,90.62001098999997 417.60306405,91.33985828999997 516.45956747,91.33985828999997 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_2">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M738.93026987,91.33985828999997 C821.4209817800001,91.33985828999997 738.93026987,277.766164622 821.4209817800001,277.766164622 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_3">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M417.60306405,90.62001098999997 C517.07838357,90.62001098999997 417.60306405,286.902542327 517.07838357,286.902542327 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_4">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M739.5478230800001,286.902542327 C821.4209817800001,286.902542327 739.5478230800001,303.27654262199997 821.4209817800001,303.27654262199997 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_5">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M713.6320573900001,486.20388592 C821.4209817800001,486.20388592 713.6320573900001,328.786920622 821.4209817800001,328.786920622 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="ConnectionItem_6">
+                <g fill="none" stroke="#0000ff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <path vector-effect="non-scaling-stroke" fill-rule="evenodd" d="M175.57651,306.838145 C268.398925,306.838145 175.57651,332.348523 268.398925,332.348523 "/>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_1">
+                <g fill="#ffff00" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,25.2926,268.32)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="125" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_1">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,64.8466,268.32)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">actuators</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_1">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_1">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,169.262,300.524)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_2">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,154.579,295.977)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">u</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_2">
+                <g fill="#c8c8c8" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,262.084,268.32)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="125" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_3">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,315.727,268.32)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">action</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_2">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_2">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,406.053,300.524)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_4">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,310.592,295.977)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">action_applied</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_3">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_3">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,262.084,300.524)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_5">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,275.975,295.977)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">tick</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_4">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_4">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,262.084,326.034)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_6">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,275.975,321.488)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">action</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_3">
+                <g fill="#c8c8c8" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,510.144,52.8231)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="187.159" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_7">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,606.352,52.8231)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">theta</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_5">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_5">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,732.613,85.0266)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_8">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,653.562,80.4803)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">observation</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_6">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_6">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,510.144,85.0266)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_9">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,524.035,80.4803)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">observation_array</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_4">
+                <g fill="#00ffff" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,563.347,447.686)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="125" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_10">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,617.305,447.686)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">image</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_7">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_7">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,707.316,479.889)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_11">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,663.515,475.343)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">image</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_8">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_8">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,563.347,479.889)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_12">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,577.238,475.343)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">tick</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_5">
+                <g fill="#c8c8c8" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,510.762,248.385)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="187.159" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_13">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,601.396,248.385)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">dtheta</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_9">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_9">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,733.231,280.588)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_14">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,654.18,276.042)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">observation</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_10">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_10">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,510.762,280.588)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_15">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,524.654,276.042)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">observation_array</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_6">
+                <g fill="#c8c8c8" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,267.318,52.1028)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="125" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_16">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,342.677,52.1028)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">x</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_11">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_11">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,411.287,84.3064)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_17">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,332.236,79.76)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">observation</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_12">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_12">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,267.318,84.3064)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_18">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,281.21,79.76)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">tick</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+            <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="NodeGraphicsItem_7">
+                <g fill="#ffff00" fill-opacity="0.196078" stroke="#000000" stroke-opacity="0.784314" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,815.103,239.248)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                    <rect vector-effect="non-scaling-stroke" x="0" y="0" width="125" height="125"/>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_19">
+                    
+
+
+                    
+
+
+                    
+
+
+                    <g fill="none" stroke="#323232" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,862.669,239.248)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                        <text fill="#323232" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">sensors</text>
+                    </g>
+                    
+
+
+                    
+
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_13">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_13">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,815.103,271.452)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_20">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,828.995,266.906)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">theta</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_14">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_14">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,815.103,296.962)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_21">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,828.995,292.416)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">dtheta</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_15">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_15">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,815.103,322.473)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_22">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,828.995,317.926)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">image</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+                <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TerminalGraphicsItem_16">
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_16">
+                        <g fill="#0000ff" fill-opacity="1" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1.26289,0,0,1.26289,815.103,347.983)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <rect x="0" y="0" width="10" height="10"/>
+                        </g>
+                    </g>
+                    <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="TextItem_23">
+                        
+
+
+                        
+
+
+                        
+
+
+                        <g fill="none" stroke="#000000" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(0.88402,0,0,0.88402,828.995,343.436)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                            <text fill="#000000" fill-opacity="1" stroke="none" xml:space="preserve" x="4" y="17.9844" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">u</text>
+                        </g>
+                        
+
+
+                        
+
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" id="QGraphicsRectItem_17">
+            <g fill="none" stroke="none" transform="matrix(1,0,0,1,0,0)" font-family="Ubuntu" font-size="14.6667" font-weight="400" font-style="normal">
+                <rect vector-effect="non-scaling-stroke" x="0" y="0" width="1000" height="664"/>
+            </g>
+        </g>
+    </g>
+</g>
+
+</svg>
