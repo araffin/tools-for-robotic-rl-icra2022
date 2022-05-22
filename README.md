@@ -22,11 +22,16 @@ Stable-Baselines3 notebooks can be found in the `notebooks/` folder.
 - [Gym/Stable Baselines3 Getting Started](https://colab.research.google.com/github/araffin/tools-for-robotic-rl-icra2022/blob/main/notebooks/icra_hands_on_sb3.ipynb)
 - [Hyperparameter tuning with Optuna](https://colab.research.google.com/github/araffin/tools-for-robotic-rl-icra2022/blob/main/notebooks/optuna_lab.ipynb)
 
-<!--
+
 ### EAGERx
 
 EAGERX notebooks can be found in the [eagerx tutorials](https://github.com/eager-dev/eagerx_tutorials) repository.
 
+
+- [EAGERx: Getting Started](https://colab.research.google.com/github/eager-dev/eagerx_tutorials/blob/master/tutorials/icra/getting_started.ipynb)
+- [EAGERx: Advanced Usage](https://colab.research.google.com/github/eager-dev/eagerx_tutorials/blob/master/tutorials/icra/advanced_usage.ipynb)
+
+<!--
 Exercise instructions can be found here: https://araffin.github.io/tools-for-robotic-rl-icra2022/notebooks/eagerx_exercises.html -->
 
 
