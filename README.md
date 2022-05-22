@@ -11,6 +11,10 @@ Website: https://araffin.github.io/tools-for-robotic-rl-icra2022/
 - Gym: https://github.com/openai/gym
 - Optuna: https://github.com/optuna/optuna/
 
+## Discord server
+
+Join the Discord server for help and discussion: https://discord.gg/zYq82HZy
+
 ## Notebooks
 
 Click on each link to open the notebook in Google Colab.
